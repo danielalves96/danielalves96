@@ -31,7 +31,8 @@ I also worked as an electronics technician and with the Linux operational system
 
 # Some stats...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielalves96&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalves96&theme=dark&hide_border=true&layout=compact" /> </a> 
+<a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielalves96&show_icons=true&theme=dark&hide_border=true&hide=issues&count_private=true&line_height=24" /> </a>
 
 ### Always < 🐊 crocoding... />
 
