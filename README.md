@@ -29,6 +29,10 @@ I also worked as an electronics technician and with the Linux operational system
 ![](https://img.shields.io/badge/Insomnia-563D7C?style=for-the-badge&logo=Insomnia&logoColor=white)
 </div>
 
+# Some stats...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielalves96&show_icons=true&theme=dark)
+
 ### Always < 🐊 crocoding... />
 
 
