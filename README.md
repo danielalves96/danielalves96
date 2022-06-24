@@ -69,8 +69,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/danielalves96/danielalves96/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h4 align="left">Always < 🐊 crocoding... /></h4>
