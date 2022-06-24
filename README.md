@@ -68,10 +68,6 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <h4 align="left">Always < 🐊 crocoding... /></h4>
 
 ### 
