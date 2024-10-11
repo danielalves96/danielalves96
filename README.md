@@ -92,7 +92,7 @@ I focus on delivering high-quality, scalable web solutions, ensuring seamless fr
 #### 🌟 Let's Collaborate!
 
 > Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/daniel-luiz-alves)  to discuss potential collaborations!
-> Get to know me and explore my work at [https://www.ricardogesteves.com](https://www.ricardogesteves.com)
+> Get to know me and explore my work at [https://daniel-luiz-alves.vercel.app](https://daniel-luiz-alves.vercel.app)
 >
 > Looking forward to making impactful contributions together! 😊✨
 
