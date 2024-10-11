@@ -86,8 +86,6 @@ I focus on delivering high-quality, scalable web solutions, ensuring seamless fr
 
 <a href="http://www.github.com/danielalves96"><img src="https://github-readme-stats.vercel.app/api?username=danielalves96&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true&count_private=true" alt="danielalves96's GitHub stats" /></a>
 <a href="http://www.github.com/danielalves96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danielalves96&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak count" /></a>
-<a href="https://github.com/danielalves96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalves96&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
-
 
 ##
 
