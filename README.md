@@ -11,14 +11,13 @@ I focus on delivering high-quality, scalable web solutions, ensuring seamless fr
 #### About Me
 
 > - 🌍 Based in Curitiba, Brasil.
-> - 🖥️ Explore my portfolio at [https://daniel-luiz-alves.vercel.app/](https://daniel-luiz-alves.vercel.app/).
+> - 🖥️ Explore my portfolio at [https://daniel-luiz-alves.vercel.app](https://daniel-luiz-alves.vercel.app).
 > - ✉️ Contact me at [LinkedIn](https://www.linkedin.com/in/daniel-luiz-alves).
-> - 🚀 Currently  [Cooking something special 🔥](https://#), enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
+> - 🚀 Currently <b>Cooking something special 🔥</b>, enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
 > - 🧠 Constantly learning and exploring new technologies to advance my skills.
 > - 🤝 Open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repositories to gain insights into my journey and tech stack.
 > - 💬 Ask me about **JavaScript, TypeScript, React** ecosystem, and building scalable web applications.
-
 
 ##
 
